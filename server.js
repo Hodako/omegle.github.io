@@ -1,4 +1,3 @@
-  });
 
   socket.on('disconnect', () => {
     let disconnectedUser;
